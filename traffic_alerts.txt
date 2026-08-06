@@ -1,0 +1,11 @@
+ACCIDENT RISK ALERT: J001 reported 5 accidents.
+POLLUTION WARNING: J001 Pollution Index is critical (180).
+HIGH CONGESTION ALERT: J003 has a score of 12600.00
+ACCIDENT RISK ALERT: J003 reported 8 accidents.
+POLLUTION WARNING: J003 Pollution Index is critical (240).
+HIGH CONGESTION ALERT: J005 has a score of 4800.00
+ACCIDENT RISK ALERT: J005 reported 4 accidents.
+POLLUTION WARNING: J005 Pollution Index is critical (210).
+HIGH CONGESTION ALERT: J006 has a score of 7916.67
+POLLUTION WARNING: J006 Pollution Index is critical (190).
+ACCIDENT RISK ALERT: J007 reported 6 accidents.
